@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "pipeline_1",
 	"properties": {
 		"activities": [
 			{
@@ -15,6 +15,9 @@
 					"secureInput": false
 				},
 				"userProperties": [],
+				"typeProperties": {
+					"pythonFile": "dbfs:Users/chaudhary.sandip@gmail.com/Test_db_pipelines.py"
+				},
 				"linkedServiceName": {
 					"referenceName": "ADF_GSSHIV_DB",
 					"type": "LinkedServiceReference"
