@@ -14,7 +14,11 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"linkedServiceName": {
+					"referenceName": "ADF_GSSHIV_DB",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
