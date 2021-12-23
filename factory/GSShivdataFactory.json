@@ -1,0 +1,9 @@
+{
+	"name": "GSShivdataFactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f153aeea-c250-43c2-881b-c9824cf25e81",
+		"tenantId": "5e9d586f-3d8a-4896-95b5-4077ea8b5d50"
+	}
+}
